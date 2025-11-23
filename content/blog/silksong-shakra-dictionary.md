@@ -1,3 +1,25 @@
+---
+# type: docs
+title: Shakra Translation Guide
+date: 2022-07-08T11:34:47+08:00
+featured: true
+draft: false
+comment: true
+toc: true
+reward: true
+pinned: false
+carousel: true
+series:
+  - Blog
+categories:
+  - Silksong
+tags:
+authors:
+  - vivi0300
+images: []
+---
+
+
 # Shakra Dictionary
 
 ## Remarks
