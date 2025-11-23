@@ -1,7 +1,7 @@
 ---
 # type: docs
 title: Shakra Translation Guide
-date: 2022-07-08T11:34:47+08:00
+date: 2025-10-30T11:34:47+08:00
 featured: true
 draft: false
 comment: true
