@@ -308,7 +308,7 @@ social:
 
 author:
   name: Vivi0300
-  avatar: images/tumblr-mermaid3n-heaven-shaknet.jpg # Avatar image. Default to "images/profile.webp".
+  # avatar: images/tumblr-mermaid3n-heaven-shaknet.jpg # Avatar image. Default to "images/profile.webp".
   bio: 'Currently obssessed with bug yuri'
   # company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
   # location: Earth # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
