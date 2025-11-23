@@ -1,6 +1,6 @@
 (() => {
   // ns-hugo-params:/home/vesta0/staging/vivi0300.github.com/themes/hugo-theme-bootstrap/assets/js/local-storage/index.ts
-  var local_storage_default = { baseURL: "https://hbs-skeleton.netlify.app/" };
+  var local_storage_default = { baseURL: "https://vivi0300.github.io/" };
 
   // ns-hugo-imp:/home/vesta0/staging/vivi0300.github.com/themes/hugo-theme-bootstrap/assets/js/local-storage/index.ts
   var PathLocalStorage = class {

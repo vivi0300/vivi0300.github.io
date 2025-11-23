@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Hugo Bootstrap Skeleton</title>
-    <link>https://hbs-skeleton.netlify.app/series/blog/</link>
+    <link>https://vivi0300.github.io/series/blog/</link>
     <description>Recent content in Blog on Hugo Bootstrap Skeleton</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2016-2025 Razon Yang. All Rights Reserved.
 </copyright>
-    <lastBuildDate>Thu, 30 Oct 2025 11:34:47 +0800</lastBuildDate><atom:link href="https://hbs-skeleton.netlify.app/series/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Oct 2025 11:34:47 +0800</lastBuildDate><atom:link href="https://vivi0300.github.io/series/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shakra Translation Guide</title>
-      <link>https://hbs-skeleton.netlify.app/blog/2025/10/shakra-translation-guide/</link>
+      <link>https://vivi0300.github.io/blog/2025/10/shakra-translation-guide/</link>
       <pubDate>Thu, 30 Oct 2025 11:34:47 +0800</pubDate>
-      <guid>https://hbs-skeleton.netlify.app/blog/2025/10/shakra-translation-guide/</guid>
+      <guid>https://vivi0300.github.io/blog/2025/10/shakra-translation-guide/</guid>
       <description><![CDATA[<h1 id="shakra-dictionary" data-numberify>Shakra Dictionary<a class="anchor ms-1" href="#shakra-dictionary"></a></h1>
 
 <h2 id="remarks" data-numberify>Remarks<a class="anchor ms-1" href="#remarks"></a></h2>
@@ -22,7 +22,7 @@
 <h2 id="definitions" data-numberify>Definitions<a class="anchor ms-1" href="#definitions"></a></h2>
 
 <h5 id="poshanka" data-numberify>Poshanka<a class="anchor ms-1" href="#poshanka"></a></h5>
-<p>a message that says you hope someone is well, happy, etc.:</p>]]></description><enclosure url="https://hbs-skeleton.netlify.app/blog/2025/10/shakra-translation-guide/featured-sample.webp" length="48104" type="image/webp" />
+<p>a message that says you hope someone is well, happy, etc.:</p>]]></description><enclosure url="https://vivi0300.github.io/blog/2025/10/shakra-translation-guide/featured-sample.webp" length="48104" type="image/webp" />
     </item>
     
   </channel>

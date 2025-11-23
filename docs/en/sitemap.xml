@@ -2,465 +2,465 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hbs-skeleton.netlify.app/authors/</loc>
+    <loc>https://vivi0300.github.io/authors/</loc>
     <lastmod>2025-10-30T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/authors/"
+                href="https://vivi0300.github.io/zh-hans/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/authors/"
+                href="https://vivi0300.github.io/authors/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/</loc>
+    <loc>https://vivi0300.github.io/blog/</loc>
     <lastmod>2025-10-30T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/blog/"
+                href="https://vivi0300.github.io/zh-hans/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/blog/"
+                href="https://vivi0300.github.io/blog/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/series/blog/</loc>
+    <loc>https://vivi0300.github.io/series/blog/</loc>
     <lastmod>2025-10-30T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/categories/</loc>
-    <lastmod>2025-10-30T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/categories/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/</loc>
+    <loc>https://vivi0300.github.io/categories/</loc>
     <lastmod>2025-10-30T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/"
+                href="https://vivi0300.github.io/zh-hans/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/"
+                href="https://vivi0300.github.io/categories/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/series/</loc>
+    <loc>https://vivi0300.github.io/</loc>
     <lastmod>2025-10-30T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/series/"
+                href="https://vivi0300.github.io/zh-hans/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/series/"
+                href="https://vivi0300.github.io/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/2025/10/shakra-translation-guide/</loc>
-    <lastmod>2025-10-30T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/categories/silksong/</loc>
-    <lastmod>2025-10-30T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/authors/vivi0300/</loc>
+    <loc>https://vivi0300.github.io/series/</loc>
     <lastmod>2025-10-30T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/authors/vivi0300/"
+                href="https://vivi0300.github.io/zh-hans/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/authors/vivi0300/"
+                href="https://vivi0300.github.io/series/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/</loc>
+    <loc>https://vivi0300.github.io/blog/2025/10/shakra-translation-guide/</loc>
+    <lastmod>2025-10-30T11:34:47+08:00</lastmod>
+  </url><url>
+    <loc>https://vivi0300.github.io/categories/silksong/</loc>
+    <lastmod>2025-10-30T11:34:47+08:00</lastmod>
+  </url><url>
+    <loc>https://vivi0300.github.io/authors/vivi0300/</loc>
+    <lastmod>2025-10-30T11:34:47+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://vivi0300.github.io/zh-hans/authors/vivi0300/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vivi0300.github.io/authors/vivi0300/"
+                />
+  </url><url>
+    <loc>https://vivi0300.github.io/docs/installation/linux/archlinux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/docs/installation/linux/archlinux/"
+                href="https://vivi0300.github.io/zh-hans/docs/installation/linux/archlinux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/"
+                href="https://vivi0300.github.io/docs/installation/linux/archlinux/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/arch-linux/</loc>
+    <loc>https://vivi0300.github.io/tags/arch-linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/arch-linux/"
+                href="https://vivi0300.github.io/zh-hans/tags/arch-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/arch-linux/"
+                href="https://vivi0300.github.io/tags/arch-linux/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/</loc>
+    <loc>https://vivi0300.github.io/docs/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/docs/"
+                href="https://vivi0300.github.io/zh-hans/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/docs/"
+                href="https://vivi0300.github.io/docs/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/series/guide/</loc>
+    <loc>https://vivi0300.github.io/series/guide/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/series/guide/"
+                href="https://vivi0300.github.io/zh-hans/series/guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/series/guide/"
+                href="https://vivi0300.github.io/series/guide/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/categories/installation/</loc>
+    <loc>https://vivi0300.github.io/categories/installation/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/categories/installation/"
+                href="https://vivi0300.github.io/zh-hans/categories/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/categories/installation/"
+                href="https://vivi0300.github.io/categories/installation/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/</loc>
+    <loc>https://vivi0300.github.io/docs/installation/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/docs/installation/"
+                href="https://vivi0300.github.io/zh-hans/docs/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/docs/installation/"
+                href="https://vivi0300.github.io/docs/installation/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/introduction/</loc>
+    <loc>https://vivi0300.github.io/docs/introduction/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/docs/installation/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/docs/installation/linux/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/linux/</loc>
+    <loc>https://vivi0300.github.io/docs/installation/linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/linux/"
+                href="https://vivi0300.github.io/zh-hans/docs/installation/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/linux/"
+                href="https://vivi0300.github.io/docs/installation/linux/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/</loc>
+    <loc>https://vivi0300.github.io/tags/linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/"
+                href="https://vivi0300.github.io/zh-hans/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/"
+                href="https://vivi0300.github.io/tags/linux/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/</loc>
+    <loc>https://vivi0300.github.io/tags/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/docs/installation/linux/ubuntu/"
+                href="https://vivi0300.github.io/zh-hans/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/"
+                href="https://vivi0300.github.io/tags/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/ubuntu/</loc>
+    <loc>https://vivi0300.github.io/docs/installation/linux/ubuntu/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/ubuntu/"
+                href="https://vivi0300.github.io/zh-hans/docs/installation/linux/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/ubuntu/"
+                href="https://vivi0300.github.io/docs/installation/linux/ubuntu/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/windows/</loc>
+    <loc>https://vivi0300.github.io/tags/ubuntu/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/docs/installation/windows/"
+                href="https://vivi0300.github.io/zh-hans/tags/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/docs/installation/windows/"
+                href="https://vivi0300.github.io/tags/ubuntu/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/windows/</loc>
+    <loc>https://vivi0300.github.io/docs/installation/windows/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/windows/"
+                href="https://vivi0300.github.io/zh-hans/docs/installation/windows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/windows/"
+                href="https://vivi0300.github.io/docs/installation/windows/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/crop/</loc>
+    <loc>https://vivi0300.github.io/tags/windows/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://vivi0300.github.io/zh-hans/tags/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vivi0300.github.io/tags/windows/"
+                />
+  </url><url>
+    <loc>https://vivi0300.github.io/tags/crop/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/crop/"
+                href="https://vivi0300.github.io/zh-hans/tags/crop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/crop/"
+                href="https://vivi0300.github.io/tags/crop/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/fill/</loc>
+    <loc>https://vivi0300.github.io/tags/fill/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/fill/"
+                href="https://vivi0300.github.io/zh-hans/tags/fill/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/fill/"
+                href="https://vivi0300.github.io/tags/fill/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/filters/</loc>
+    <loc>https://vivi0300.github.io/tags/filters/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/filters/"
+                href="https://vivi0300.github.io/zh-hans/tags/filters/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/filters/"
+                href="https://vivi0300.github.io/tags/filters/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/fit/</loc>
+    <loc>https://vivi0300.github.io/tags/fit/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/fit/"
+                href="https://vivi0300.github.io/zh-hans/tags/fit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/fit/"
+                href="https://vivi0300.github.io/tags/fit/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/categories/image/</loc>
+    <loc>https://vivi0300.github.io/categories/image/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/categories/image/"
+                href="https://vivi0300.github.io/zh-hans/categories/image/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/categories/image/"
+                href="https://vivi0300.github.io/categories/image/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/news/2022/07/more-image-processing-methods/</loc>
+    <loc>https://vivi0300.github.io/news/2022/07/more-image-processing-methods/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/news/2022/07/more-image-processing-methods/"
+                href="https://vivi0300.github.io/zh-hans/news/2022/07/more-image-processing-methods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/news/2022/07/more-image-processing-methods/"
+                href="https://vivi0300.github.io/news/2022/07/more-image-processing-methods/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/news/</loc>
+    <loc>https://vivi0300.github.io/news/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/news/"
+                href="https://vivi0300.github.io/zh-hans/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/news/"
+                href="https://vivi0300.github.io/news/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/series/news/</loc>
+    <loc>https://vivi0300.github.io/series/news/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/series/news/"
+                href="https://vivi0300.github.io/zh-hans/series/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/series/news/"
+                href="https://vivi0300.github.io/series/news/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/2022/04/readme/</loc>
+    <loc>https://vivi0300.github.io/blog/2022/04/readme/</loc>
     <lastmod>2022-04-17T16:35:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/blog/2022/04/readme/"
+                href="https://vivi0300.github.io/zh-hans/blog/2022/04/readme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/blog/2022/04/readme/"
+                href="https://vivi0300.github.io/blog/2022/04/readme/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/readme/</loc>
+    <loc>https://vivi0300.github.io/tags/readme/</loc>
     <lastmod>2022-04-17T16:35:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/tags/readme/"
+                href="https://vivi0300.github.io/zh-hans/tags/readme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/readme/"
+                href="https://vivi0300.github.io/tags/readme/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/archives/2022/</loc>
+    <loc>https://vivi0300.github.io/archives/2022/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/archives/2022/"
+                href="https://vivi0300.github.io/zh-hans/archives/2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/archives/2022/"
+                href="https://vivi0300.github.io/archives/2022/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/about/</loc>
+    <loc>https://vivi0300.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/about/"
+                href="https://vivi0300.github.io/zh-hans/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/about/"
+                href="https://vivi0300.github.io/about/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/archives/</loc>
+    <loc>https://vivi0300.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/archives/"
+                href="https://vivi0300.github.io/zh-hans/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/archives/"
+                href="https://vivi0300.github.io/archives/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/contact/</loc>
+    <loc>https://vivi0300.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/contact/"
+                href="https://vivi0300.github.io/zh-hans/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/contact/"
+                href="https://vivi0300.github.io/contact/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/offline/</loc>
+    <loc>https://vivi0300.github.io/offline/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/offline/"
+                href="https://vivi0300.github.io/zh-hans/offline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/offline/"
+                href="https://vivi0300.github.io/offline/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/search/</loc>
+    <loc>https://vivi0300.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/search/"
+                href="https://vivi0300.github.io/zh-hans/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/search/"
+                href="https://vivi0300.github.io/search/"
                 />
   </url>
 </urlset>
