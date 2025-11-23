@@ -316,16 +316,6 @@
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-hans/authors/razonyang/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/authors/razonyang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/authors/razonyang/"
-                />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-hans/news/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
@@ -414,6 +404,18 @@
                 rel="alternate"
                 hreflang="zh-hans"
                 href="https://hbs-skeleton.netlify.app/zh-hans/offline/"
+                />
+  </url><url>
+    <loc>https://hbs-skeleton.netlify.app/zh-hans/authors/vivi0300/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbs-skeleton.netlify.app/authors/vivi0300/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://hbs-skeleton.netlify.app/zh-hans/authors/vivi0300/"
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-hans/archives/</loc>

@@ -226,6 +226,22 @@
                 href="https://hbs-skeleton.netlify.app/authors/"
                 />
   </url><url>
+    <loc>https://hbs-skeleton.netlify.app/blog/</loc>
+    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://hbs-skeleton.netlify.app/zh-hans/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbs-skeleton.netlify.app/blog/"
+                />
+  </url><url>
+    <loc>https://hbs-skeleton.netlify.app/series/blog/</loc>
+    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
+  </url><url>
     <loc>https://hbs-skeleton.netlify.app/tags/crop/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
@@ -330,30 +346,23 @@
                 href="https://hbs-skeleton.netlify.app/series/news/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/authors/razonyang/</loc>
+    <loc>https://hbs-skeleton.netlify.app/blog/2022/07/shakra-translation-guide/</loc>
+    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
+  </url><url>
+    <loc>https://hbs-skeleton.netlify.app/categories/silksong/</loc>
+    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
+  </url><url>
+    <loc>https://hbs-skeleton.netlify.app/authors/vivi0300/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/authors/razonyang/"
+                href="https://hbs-skeleton.netlify.app/zh-hans/authors/vivi0300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/authors/razonyang/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/</loc>
-    <lastmod>2022-04-17T16:35:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs-skeleton.netlify.app/zh-hans/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/blog/"
+                href="https://hbs-skeleton.netlify.app/authors/vivi0300/"
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/blog/2022/04/readme/</loc>
@@ -381,8 +390,6 @@
                 hreflang="en"
                 href="https://hbs-skeleton.netlify.app/tags/readme/"
                 />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/1/01/</loc>
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/archives/2022/</loc>
     <xhtml:link

@@ -18,18 +18,10 @@
     </item>
     
     <item>
-      <title>README</title>
-      <link>https://hbs-skeleton.netlify.app/blog/2022/04/readme/</link>
-      <pubDate>Sun, 17 Apr 2022 16:35:29 +0800</pubDate>
-      <guid>https://hbs-skeleton.netlify.app/blog/2022/04/readme/</guid>
-      <description><![CDATA[<p>See also <a href="https://github.com/razonyang/hugo-theme-bootstrap-skeleton/blob/main/README.md" target="_blank" rel="noopener noreferrer">README.md<i class="fas fa-external-link-square-alt ms-1"></i></a>.</p>]]></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hbs-skeleton.netlify.app/blog/1/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hbs-skeleton.netlify.app/blog/1/01/</guid>
+      <title>Shakra Translation Guide</title>
+      <link>https://hbs-skeleton.netlify.app/blog/2022/07/shakra-translation-guide/</link>
+      <pubDate>Fri, 08 Jul 2022 11:34:47 +0800</pubDate>
+      <guid>https://hbs-skeleton.netlify.app/blog/2022/07/shakra-translation-guide/</guid>
       <description><![CDATA[<h1 id="shakra-dictionary" data-numberify>Shakra Dictionary<a class="anchor ms-1" href="#shakra-dictionary"></a></h1>
 
 <h2 id="remarks" data-numberify>Remarks<a class="anchor ms-1" href="#remarks"></a></h2>
@@ -38,7 +30,15 @@
 <h2 id="definitions" data-numberify>Definitions<a class="anchor ms-1" href="#definitions"></a></h2>
 
 <h5 id="poshanka" data-numberify>Poshanka<a class="anchor ms-1" href="#poshanka"></a></h5>
-<p>a message that says you hope someone is well, happy, etc.:</p>]]></description>
+<p>a message that says you hope someone is well, happy, etc.:</p>]]></description><enclosure url="https://hbs-skeleton.netlify.app/blog/2022/07/shakra-translation-guide/featured-sample.webp" length="48104" type="image/webp" />
+    </item>
+    
+    <item>
+      <title>README</title>
+      <link>https://hbs-skeleton.netlify.app/blog/2022/04/readme/</link>
+      <pubDate>Sun, 17 Apr 2022 16:35:29 +0800</pubDate>
+      <guid>https://hbs-skeleton.netlify.app/blog/2022/04/readme/</guid>
+      <description><![CDATA[<p>See also <a href="https://github.com/razonyang/hugo-theme-bootstrap-skeleton/blob/main/README.md" target="_blank" rel="noopener noreferrer">README.md<i class="fas fa-external-link-square-alt ms-1"></i></a>.</p>]]></description>
     </item>
     
   </channel>
